@@ -1,0 +1,55 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Features"
+url = "https://www.mapeaze.com/#features"
+weight = 2
+
+
+[[main]]
+name = "Blog"
+url = "blog/"
+weight = 3
+
+
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 5
+
+
+
+
+
+
+# footer menu
+[[footer]]
+name = "Home"
+url = "https://mapeaze.com/"
+weight = 1
+
+[[footer]]
+name = "Features"
+url = "https://www.mapeaze.com/#features"
+weight = 2
+
+[[footer]]
+name = "Blog"
+url = "/"
+weight = 3
+
+[[footer]]
+name = "Privacy Policy"
+url = "https://www.mapeaze.com/privacy"
+weight = 4
+
+[[footer]]
+name = "Terms & Conditions"
+url = "https://www.mapeaze.com/terms-and-conditions"
+weight = 5

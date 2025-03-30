@@ -1,0 +1,14 @@
+{
+  "main": [
+    {
+      "title": "linkedin",
+      "icon": "lab la-linkedin-in",
+      "link": "https://www.linkedin.com/company/mapeaze"
+    },
+    {
+      "title": "twitter",
+      "icon": "lab la-twitter",
+      "link": "https://x.com/MapEaze"
+    }
+  ]
+}
